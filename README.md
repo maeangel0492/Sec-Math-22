@@ -1,5 +1,5 @@
+
 # Sec-Math-22
 
-CREATING INSTRUCTIONAL MATERIALS AND POWERPOINT
+ repository for our sec math 22(TTL 2). ito gusto ko
 
-te anong topic natin?
