@@ -1,4 +1,4 @@
 
 # Sec-Math-22
 
-CREATING INSTRUCTIONAL MATERIALS AND POWERPOINT
+This is a repository for our sec math 22(TTL 2).
