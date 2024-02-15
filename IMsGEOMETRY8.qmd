@@ -11,4 +11,22 @@ editor: visual
 
 # Grade 8 Geometry IMs
 
-## TOPIC: TRIANGLE CONGRUENCES
+## TOPIC: THE MATHEMATICAL SYSTEM OF GEOMETRY
+
+### lesson 2: DEFINED TERMS, UNDEFINED TERMS, POSTULATRS AND THEOREMS
+
+**Lesson Objectives:**
+
+at the end of the lesson, the students should be able to:
+
+-   illustrates defined terms, undefined terms, postulates and theorems; and
+
+-   identify the postulates or theorems being referred in the given statement.
+
+    ***What is It***
+
+    Points, lines, and planes are the building blocks of geometry. They are the
+    undefined terms in geometry because they can be described without using other
+    figures.
+
+![](images/clipboard-3600089184.png)
