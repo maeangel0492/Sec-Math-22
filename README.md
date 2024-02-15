@@ -2,4 +2,4 @@
 
  repository for our sec math 22(TTL 2).
 
-our learning competeency will be "proves two triangles are congruent"
+our learning competency will be "proves two triangles are congruent"
