@@ -9,73 +9,55 @@ format: html
 editor: visual
 ---
 
-# Grade 8 Geometry IMs
-
 ## TOPIC: THE MATHEMATICAL SYSTEM OF GEOMETRY
 
-### lesson 2: DEFINED TERMS, UNDEFINED TERMS, POSTULATRS AND THEOREMS
+### LESSON 2: DEFINED TERMS, UNDEFINED TERMS, POSTULATRS AND THEOREMS
 
 **Lesson Objectives:**
 
-at the end of the lesson, the students should be able to:
+At the end of the lesson, the students should be able to:
 
 -   illustrates defined terms, undefined terms, postulates and theorems; and
 
 -   identify the postulates or theorems being referred in the given statement.
 
     ***What’s In***
-    **Recall:** Point, Line, and Plane
-    **Directions:** Determine whether each of the following suggests a point, a line
-    or a plane.
-    1. straight wire
-    2. pinhole
-    3. sheet of paper
-    4. period
-    5. stick
 
-    ***What’s New***
-    Directions: Write something about the following terms using your previous
-    learning in geometry.
-    1. Point
-    2. Line
-    3. Plane
+    **Recall:** Point, Line, and Plane
+
+    **Directions:** Determine whether each of the following suggests a point, a line or a plane.
+
+    1.  straight wire
+    2.  pinhole
+    3.  sheet of paper
+    4.  period
+    5.  stick
+
+    ***What’s New*** Directions: Write something about the following terms using your previous learning in geometry.
+
+    1.  Point
+    2.  Line
+    3.  Plane
 
     ***What is It***
 
     Points, lines, and planes are the building blocks of geometry. They are the undefined terms in geometry because they can be described without using other figures.
 
-    +-----------------+--------------------------------------+--------------------------------------+-----------------------+
-    | undefined term  | illustration                         | how to name                          | other information     |
-    +=================+======================================+======================================+=======================+
-    | **point**       | Dot                                  | ![](images/clipboard-1388748205.png) | • Has no length,      |
-    |                 |                                      |                                      | width, or space;      |
-    |                 | ![](images/clipboard-2026176966.png) | read as: point P                     | occupies              |
-    |                 |                                      |                                      | space.                |
-    |                 |                                      |                                      | no                    |
-    |                 |                                      |                                      | **• Examples:** dot,  |
-    |                 |                                      |                                      | dust                  |
-    |                 |                                      |                                      | particle,             |
-    |                 |                                      |                                      | period                |
-    +-----------------+--------------------------------------+--------------------------------------+-----------------------+
-    | **line**        | Straight mark                        | ![](images/clipboard-523653381.png)  | • Has                 |
-    |                 | with two arrow heads                 | or                                   | infinite              |
-    |                 |                                      | Line AB                              | length but no         |
-    |                 | ![](images/clipboard-1344371843.png) | or                                   | width                 |
-    |                 |                                      | line ℓ                               | thickness.            |
-    |                 |                                      |                                      | **• Examples:**       |
-    |                 |                                      |                                      | straight              |
-    |                 |                                      |                                      | stick                 |
-    |                 |                                      |                                      | and                   |
-    |                 |                                      |                                      | wire,                 |
-    +-----------------+--------------------------------------+--------------------------------------+-----------------------+
-    | **plane**       | Slanted four-sided                   | Plane M                              | **• Extends**         |
-    |                 | figure                               | or                                   | infinitely in two     |
-    |                 |                                      | plane ABC                            | dimensions. No        |
-    |                 | ![](images/clipboard-1376752109.png) |                                      | thickness.            |
-    |                 |                                      |                                      | **• Examples:**       |
-    |                 |                                      |                                      | Sheet of paper,       |
-    |                 |                                      |                                      | wall                  |
-    +-----------------+--------------------------------------+--------------------------------------+-----------------------+
+    +----------------+--------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+    | undefined term | illustration                         | how to name                                              | other information                                                                               |
+    +================+======================================+==========================================================+=================================================================================================+
+    | **point**      | Dot                                  | ![](images/clipboard-1388748205.png)                     | • Has no length, width, or space; occupies space. no **• Examples:** dot, dust particle, period |
+    |                |                                      |                                                          |                                                                                                 |
+    |                | ![](images/clipboard-2026176966.png) | read as: point P                                         |                                                                                                 |
+    +----------------+--------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+    | **line**       | Straight mark with two arrow heads   | ![](images/clipboard-523653381.png) or Line AB or line ℓ | • Has infinite length but no width thickness. **• Examples:** straight stick and wire,          |
+    |                |                                      |                                                          |                                                                                                 |
+    |                | ![](images/clipboard-1344371843.png) |                                                          |                                                                                                 |
+    +----------------+--------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------+
+    | **plane**      | Slanted four-sided figure            | Plane M or plane ABC                                     | **• Extends** infinitely in two dimensions. No thickness. **• Examples:** Sheet of paper, wall  |
+    |                |                                      |                                                          |                                                                                                 |
+    |                | ![](images/clipboard-1376752109.png) |                                                          |                                                                                                 |
+    +----------------+--------------------------------------+----------------------------------------------------------+-------------------------------------------------------------------------------------------------+
 
     The undefined terms are used to define other geometric concepts. Here are some of the defined terms formed from the undefined terms.
 
@@ -85,23 +67,19 @@ at the end of the lesson, the students should be able to:
 
 **Postulates** also known as axioms are statements accepted as true without proof.
 
-+-----------------------------------------------------------------+--------------------------------------+
-| POSTULATE                                                       | ILLUSTRATIONS                        |
-+=================================================================+======================================+
-| 1.A line and a plane contain an infinite number of              |                                      |
-| points.                                                         |                                      |
-+-----------------------------------------------------------------+--------------------------------------+
-| 2\. Line Postulate                                              | ![](images/clipboard-1032678993.png) |
-| Two points determine exactly one line.                          |                                      |
-+-----------------------------------------------------------------+--------------------------------------+
-| 3\. Plane Postulate                                             | ![](images/clipboard-533469961.png)  |
-| Three noncollinear points determine a plane.                    |                                      |
-+-----------------------------------------------------------------+--------------------------------------+
-| 4\. If two points are on a plane, then the line                 | ![](images/clipboard-2160945067.png) |
-| containing them is at the same plane.                           |                                      |
-+-----------------------------------------------------------------+--------------------------------------+
-| 5\. If two planes intersect, then their intersection is a line. | ![](images/clipboard-1992673624.png) |
-+-----------------------------------------------------------------+--------------------------------------+
++---------------------------------------------------------------------------------------+--------------------------------------+
+| POSTULATE                                                                             | ILLUSTRATIONS                        |
++=======================================================================================+======================================+
+| 1.A line and a plane contain an infinite number of points.                            |                                      |
++---------------------------------------------------------------------------------------+--------------------------------------+
+| 2\. Line Postulate Two points determine exactly one line.                             | ![](images/clipboard-1032678993.png) |
++---------------------------------------------------------------------------------------+--------------------------------------+
+| 3\. Plane Postulate Three noncollinear points determine a plane.                      | ![](images/clipboard-533469961.png)  |
++---------------------------------------------------------------------------------------+--------------------------------------+
+| 4\. If two points are on a plane, then the line containing them is at the same plane. | ![](images/clipboard-2160945067.png) |
++---------------------------------------------------------------------------------------+--------------------------------------+
+| 5\. If two planes intersect, then their intersection is a line.                       | ![](images/clipboard-1992673624.png) |
++---------------------------------------------------------------------------------------+--------------------------------------+
 
 **Theorems** are statements that need to be proven using any postulate or theorem.
 
