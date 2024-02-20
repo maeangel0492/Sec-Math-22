@@ -84,3 +84,29 @@ At the end of the lesson, the students should be able to:
 **Theorems** are statements that need to be proven using any postulate or theorem.
 
 ![](images/clipboard-3964132823.png)
+
+**What’s More**
+
+*Now it’s your turn!*
+
+Answer the activity below to solidify your understanding and skills of the topic.
+
+Activity 1.2
+
+I. Directions: Illustrate and label the following.
+
+1. Line CD
+2. Point C on plane D 
+3. Three non-collinear points A, B and C on plane K. 
+4. Lines l and m intersect at point X.
+5. Planes P and R intersect at line AB.
+II. Directions: State the postulate or theorem that makes each of statement true. Refer to the postulates and theorems stated above.
+
+
+Given: three non-collinear points P, Q and R.
+
+1. Points P and Q lie in line segment 𝑃𝑄.
+2. Points P, Q and R are contained in plane PQR.
+3. line segment 𝑃𝑄 lies on plane PQR.
+4. line segment 𝑃𝑄 and point R lie on plane PQR.
+5. line segment 𝑃𝑄 and line segment𝑄𝑅intersect only at point Q.
