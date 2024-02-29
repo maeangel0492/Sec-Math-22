@@ -21,7 +21,7 @@ At the end of the lesson, the students should be able to:
 
 -   identify the postulates or theorems being referred in the given statement.
 
-    ***What’s In***
+    ## What's in!
 
     **Recall:** Point, Line, and Plane
 
@@ -67,19 +67,13 @@ At the end of the lesson, the students should be able to:
 
 **Postulates** also known as axioms are statements accepted as true without proof.
 
-+---------------------------------------------------------------------------------------+--------------------------------------+
 | POSTULATE                                                                             | ILLUSTRATIONS                        |
-+=======================================================================================+======================================+
+|---------------------------------------------------------------------------------------|--------------------------------------|
 | 1.A line and a plane contain an infinite number of points.                            |                                      |
-+---------------------------------------------------------------------------------------+--------------------------------------+
 | 2\. Line Postulate Two points determine exactly one line.                             | ![](images/clipboard-1032678993.png) |
-+---------------------------------------------------------------------------------------+--------------------------------------+
-| 3\. Plane Postulate Three noncollinear points determine a plane.                      | ![](images/clipboard-533469961.png)  |
-+---------------------------------------------------------------------------------------+--------------------------------------+
+| 3\. Plane Postulate Three noncolinear points determine a plane.                       | ![](images/clipboard-533469961.png)  |
 | 4\. If two points are on a plane, then the line containing them is at the same plane. | ![](images/clipboard-2160945067.png) |
-+---------------------------------------------------------------------------------------+--------------------------------------+
 | 5\. If two planes intersect, then their intersection is a line.                       | ![](images/clipboard-1992673624.png) |
-+---------------------------------------------------------------------------------------+--------------------------------------+
 
 **Theorems** are statements that need to be proven using any postulate or theorem.
 
@@ -95,18 +89,22 @@ Activity 1.2
 
 I. Directions: Illustrate and label the following.
 
-1. Line CD
-2. Point C on plane D 
-3. Three non-collinear points A, B and C on plane K. 
-4. Lines l and m intersect at point X.
-5. Planes P and R intersect at line AB.
+1.  Line CD
+2.  Point C on plane D
+3.  Three non-colinear points A, B and C on plane K.
+4.  Lines l and m intersect at point X.
+5.  Planes P and R intersect at line AB.
+
+<!-- -->
+
 II. Directions: State the postulate or theorem that makes each of statement true. Refer to the postulates and theorems stated above.
 
+Given: three non-colinear points P, Q and R.
 
-Given: three non-collinear points P, Q and R.
+![](images/clipboard-3356996749.png)
 
-1. Points P and Q lie in line segment 𝑃𝑄.
-2. Points P, Q and R are contained in plane PQR.
-3. line segment 𝑃𝑄 lies on plane PQR.
-4. line segment 𝑃𝑄 and point R lie on plane PQR.
-5. line segment 𝑃𝑄 and line segment𝑄𝑅intersect only at point Q.
+1.  Points P and Q lie in line segment 𝑃𝑄.
+2.  Points P, Q and R are contained in plane PQR.
+3.  line segment 𝑃𝑄 lies on plane PQR.
+4.  line segment 𝑃𝑄 and point R lie on plane PQR.
+5.  line segment 𝑃𝑄 and line segment𝑄𝑅intersect only at point Q.
