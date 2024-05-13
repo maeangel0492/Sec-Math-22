@@ -67,13 +67,19 @@ At the end of the lesson, the students should be able to:
 
 **Postulates** also known as axioms are statements accepted as true without proof.
 
++---------------------------------------------------------------------------------------+--------------------------------------+
 | POSTULATE                                                                             | ILLUSTRATIONS                        |
-|---------------------------------------------------------------------------------------|--------------------------------------|
++=======================================================================================+======================================+
 | 1.A line and a plane contain an infinite number of points.                            |                                      |
++---------------------------------------------------------------------------------------+--------------------------------------+
 | 2\. Line Postulate Two points determine exactly one line.                             | ![](images/clipboard-1032678993.png) |
++---------------------------------------------------------------------------------------+--------------------------------------+
 | 3\. Plane Postulate Three noncolinear points determine a plane.                       | ![](images/clipboard-533469961.png)  |
++---------------------------------------------------------------------------------------+--------------------------------------+
 | 4\. If two points are on a plane, then the line containing them is at the same plane. | ![](images/clipboard-2160945067.png) |
++---------------------------------------------------------------------------------------+--------------------------------------+
 | 5\. If two planes intersect, then their intersection is a line.                       | ![](images/clipboard-1992673624.png) |
++---------------------------------------------------------------------------------------+--------------------------------------+
 
 **Theorems** are statements that need to be proven using any postulate or theorem.
 
@@ -108,3 +114,32 @@ Given: three non-colinear points P, Q and R.
 3.  line segment 𝑃𝑄 lies on plane PQR.
 4.  line segment 𝑃𝑄 and point R lie on plane PQR.
 5.  line segment 𝑃𝑄 and line segment𝑄𝑅intersect only at point Q.
+
+## **What's Need To Remember**  
+
+**Points, lines and planes are the building blocks of geometry.**
+
+**• Points**
+1. A point has no length, width and space.
+2. A line has infinite length but no width and thickness.
+3. A plane extends infinitely in two dimensions. No thickness.
+**• Postulates**
+1. A line and a plane contain an infinite number of points.
+2. Line Postulate. Two points determine exactly one line.
+3. Plane Postulate. Three noncollinear points determine a
+plane.
+4. If two points are on a plane, then the line containing them
+is at the same plane.
+5. If two planes intersect, then their intersection is a line.
+**• Theorems**
+1. Two lines intersect at one point.
+2. A line and a point not on the line determine a plane.
+3. Two intersecting lines determine a plane.
+4. The intersection of a line and a plane is a point.
+
+## Assignment 
+
+Think of a real-life situation that can represent the postulate or theorem
+illustrated above. Write at least 3.
+**Example:** the ground and the tripod of the camera. This illustrates the
+postulate number 3 - three noncollinear points determine a plane.
